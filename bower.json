@@ -1,0 +1,23 @@
+{
+  "name": "NavUL",
+  "description": "Responsive Navigation ala ul Javascript.",
+  "main": "Gruntfile.js",
+  "authors": [
+    "misterzik@insanen.com"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Navigation",
+    "Javascript"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "css",
+    "js"
+  ]
+}

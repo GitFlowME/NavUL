@@ -1,0 +1,5 @@
+node_modules/*
+css/*
+js/*
+node_modules/.bin/cake
+Gruntfile.js

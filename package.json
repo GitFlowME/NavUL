@@ -1,0 +1,23 @@
+{
+  "name": "NavUL.js",
+  "version": "1.0.0",
+  "description": "Responsive Navigation ala ul Javascript.",
+  "main": "Gruntfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "grunt-contrib-cssmin": "^1.0.1",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-nodeunit": "~0.4.1",
+    "grunt-contrib-uglify": "^1.0.1",
+    "grunt-contrib-watch": "~0.6.1"
+  },
+  "ignore_files": [
+  "**/.*",
+  "node_modules",
+  "bower_components",
+  "test",
+  "tests",
+  "css",
+  "js"],
+}
